@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 class Studinfo
 {
-    String name = "Sanika";
-    int age =19;
-    char gender ='F';
-    float percentage =98.99f;
+    String name ;
+    int age ;
+    char gender ;
+    float percentage ;
     
       
 }
