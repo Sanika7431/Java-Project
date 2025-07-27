@@ -3,7 +3,7 @@ package greek;
 import java.util.Scanner;
 public class BankAccount {
 
-	static String BankName="Central Bank"; ;
+	static String BankName="central Bank";
 	float BankBalance ;
 	
 	static void showBankName()
