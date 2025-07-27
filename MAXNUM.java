@@ -23,7 +23,7 @@ public class MAXNUM {
 		{
 			max=b;
 		}else {
-			System.out.println(max=b);
+			(max=b);
 		}
 		System.out.println("The largest Number :" +max );
 		
