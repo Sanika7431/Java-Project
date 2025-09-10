@@ -22,9 +22,6 @@ class Animal{
 		System.out.println(" ");
 	}
 }
-
-
-
 class Carnivorous extends Animal 
 {
     void display() 
@@ -40,7 +37,6 @@ class Herbivorous extends Carnivorous
 	     System.out.println("Herbivorous : Eats Plants and Vegetables.");
 	 }
 }
-
 class Amphibians extends Herbivorous 
 {
 	 void display2() 
@@ -48,7 +44,6 @@ class Amphibians extends Herbivorous
 	     System.out.println("Amphibians :  lives in land and water.");
 	}
 }
-
 class Reptiles extends Amphibians
 {
 	void display3() 
@@ -64,8 +59,6 @@ class Aquatic extends Reptiles
 	    System.out.println("Aquatic :  lives only in water. ");
     }
 }
-
-
 
 //main class
 public class InheritanceMultilevel {
@@ -85,3 +78,4 @@ public class InheritanceMultilevel {
 		
 	}
 }
+
