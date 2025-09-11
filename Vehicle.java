@@ -41,5 +41,5 @@ public class Vehicle {
 		System.out.println("Bicycle price is :" +b2.BicyclePrice);
 		System.out.println(" ");
 	}
-
 }
+
